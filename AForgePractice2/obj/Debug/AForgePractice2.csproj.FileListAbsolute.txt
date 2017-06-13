@@ -1,0 +1,12 @@
+C:\Users\BurakOzeroglu\Desktop\Deneks\AForgePractice2\AForgePractice2\AForgePractice2\bin\Debug\AForgePractice2.exe.config
+C:\Users\BurakOzeroglu\Desktop\Deneks\AForgePractice2\AForgePractice2\AForgePractice2\bin\Debug\AForgePractice2.exe
+C:\Users\BurakOzeroglu\Desktop\Deneks\AForgePractice2\AForgePractice2\AForgePractice2\bin\Debug\AForgePractice2.pdb
+C:\Users\BurakOzeroglu\Desktop\Deneks\AForgePractice2\AForgePractice2\AForgePractice2\obj\Debug\AForgePractice2.FrmSetCamera.resources
+C:\Users\BurakOzeroglu\Desktop\Deneks\AForgePractice2\AForgePractice2\AForgePractice2\obj\Debug\AForgePractice2.FrmSetColor.resources
+C:\Users\BurakOzeroglu\Desktop\Deneks\AForgePractice2\AForgePractice2\AForgePractice2\obj\Debug\AForgePractice2.MainForm.resources
+C:\Users\BurakOzeroglu\Desktop\Deneks\AForgePractice2\AForgePractice2\AForgePractice2\obj\Debug\AForgePractice2.Properties.Resources.resources
+C:\Users\BurakOzeroglu\Desktop\Deneks\AForgePractice2\AForgePractice2\AForgePractice2\obj\Debug\AForgePractice2.csproj.GenerateResource.Cache
+C:\Users\BurakOzeroglu\Desktop\Deneks\AForgePractice2\AForgePractice2\AForgePractice2\obj\Debug\AForgePractice2.exe
+C:\Users\BurakOzeroglu\Desktop\Deneks\AForgePractice2\AForgePractice2\AForgePractice2\obj\Debug\AForgePractice2.pdb
+C:\Users\BurakOzeroglu\Desktop\Deneks\AForgePractice2\AForgePractice2\AForgePractice2\obj\Debug\AForgePractice2.ShowCroppedArea.resources
+C:\Users\BurakOzeroglu\Desktop\Deneks\AForgePractice2\AForgePractice2\AForgePractice2\obj\Debug\AForgePractice2.csprojResolveAssemblyReference.cache
